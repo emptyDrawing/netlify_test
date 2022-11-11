@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../vue-chart-lib"
+		},
+		{
+			"path": "../design/common"
+		},
+		{
+			"path": "../design/slots"
+		},
+		{
+			"path": "../design/controlled"
+		},
+		{
+			"path": "../design/renderless"
+		}
+	],
+	"settings": {
+		"DockerRun.DisableDockerrc": true
+	}
+}
